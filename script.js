@@ -37,6 +37,7 @@ stopCaptureButton.addEventListener('click', async () => {
 
 videoElement.addEventListener('leavepictureinpicture', function() {
     stopScreenCapture(); 
+    stopPictureInPicture();
   });
 
 
