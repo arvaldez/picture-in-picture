@@ -15,7 +15,7 @@ Original by [JacintoDesign](https://jacintodesign.github.io/picture-in-picture/)
 **ONLY WORKS BEST IN DESKTOP CHROME**
 1. Click on Start PiP
 
-    **a**. If first time using, allow share screen permission
+    **A**. If first time using, allow share screen permission
 
 2. Select which screen to float on top
 3. Click Share
