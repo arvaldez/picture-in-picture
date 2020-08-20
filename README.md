@@ -15,13 +15,13 @@ Original by [JacintoDesign](https://jacintodesign.github.io/picture-in-picture/)
 **ONLY WORKS BEST IN DESKTOP CHROME**
 1. Click on Start PiP
 
-    a. If first time using, allow share screen permission
-    
+    **a**. If first time using, allow share screen permission
+
 2. Select which screen to float on top
 3. Click Share
 4. Adjust size or move floating screen position
 5. To exit:
 
-    option a: hover onto the floating screen, click x.
+    **Option A**: hover onto the floating screen, click x
 
-    option b: click on Close PiP
+    **Option B**: click on Close PiP
