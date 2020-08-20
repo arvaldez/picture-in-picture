@@ -121,3 +121,39 @@ button:active {
   }
   
 }
+
+
+@media only screen and (max-width: 630px) {
+  h1 {
+    padding-right: .5rem;
+    font-size: 2rem;
+  }
+  h3 {
+    
+    font-size: .5rem;
+    margin-right: .5rem;
+  
+  }
+
+  button {
+    cursor: pointer;
+    outline: none;
+    /* font-family: 'Noto Sans HK', sans-serif; */
+    font-family: 'Changa', sans-serif;
+    font-size: 20px;
+    color: black;
+    margin-bottom: 0;
+    /* text-shadow: 0 2px 5px #7C7C8D; */
+    border-radius: 5px;
+  }
+  
+}
+
+
+
+@media only screen and (max-width: 375px) {
+  h1 {
+    padding-right: .2rem;
+  }
+ 
+}
