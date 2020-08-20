@@ -10,13 +10,26 @@
    
 </head>
 <body>
+    <div class="header">
+        <h1>Picture in Picture</h1>
+        <h3>By arvaldez</h3>
+    </div>
+    
     <!-- Video -->
-    <video id="video" height="360" width="640" hidden ></video>
+    <video id="video" height="360" width="640" hidden controls></video>
     <!-- Button -->
     <div class="button-container">
-        <button id="button">START</button>
+        <button id="select-share-screen-button">
+            <img src="https://img.icons8.com/carbon-copy/100/000000/picture-in-picture.png"/>
+            <p>Start PiP </p>
+           </button>
+           
+        <button id="stop-capture-button" hidden>
+            <img src="https://img.icons8.com/carbon-copy/100/000000/close-window.png"/>
+            <p>Close PiP</p>
+        </button>
     </div>
-
+    </div>
 
 
     <!-- Script -->
