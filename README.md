@@ -7,6 +7,7 @@ A project from [Javascript Web Projects: 20 Projects to Build Your Portfolio](ht
 ## Live Project
 
 My version [here](https://pic-in-pic.netlify.app/)
+
 Original by [JacintoDesign](https://jacintodesign.github.io/picture-in-picture/)
 
 
