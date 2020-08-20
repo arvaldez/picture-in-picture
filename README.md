@@ -20,7 +20,7 @@ Original by [JacintoDesign](https://jacintodesign.github.io/picture-in-picture/)
 
 2. Select which screen to float on top
 3. Click Share
-4. Adjust size or move floating screen position
+4. Adjust floating screen size or move position
 5. To exit:
 
     **Option A**: hover onto the floating screen, click x
