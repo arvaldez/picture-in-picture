@@ -11,7 +11,7 @@ My version [here](https://pic-in-pic.netlify.app/)
 Original by [JacintoDesign](https://jacintodesign.github.io/picture-in-picture/)
 
 
-### Instructions
+## Instructions
 
 **ONLY WORKS BEST IN DESKTOP CHROME**
 1. Click on Start PiP
